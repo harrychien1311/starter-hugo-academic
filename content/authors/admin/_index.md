@@ -1,6 +1,7 @@
 ---
 title: Chien Nguyen Nhu
 role: Data Scientist- Machine learning Engineer
+avatar_filename: chien.jpg
 bio: His research interests include  machine learning, deep learning, big data,
   cloud computing, network security and control theory.
 interests: []
@@ -22,15 +23,12 @@ organizations:
     url: https://www.ssu.ac.kr
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master in Information Communication
+      institution: Soongsil University
+      year: 2022
+    - course: BSc in Automatic Control Technology
+      institution: Hanoi University of Science and Technology
+      year: 2018
 email: ""
 superuser: true
 highlight_name: true
