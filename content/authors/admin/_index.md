@@ -34,7 +34,7 @@ education:
     - course: BSc in Automatic Control Technology
       institution: Hanoi University of Science and Technology
       year: 2018
-email: ""
+email: chiennn.pasal@gmail.com
 superuser: true
 highlight_name: true
 ---
