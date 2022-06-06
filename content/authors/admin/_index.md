@@ -1,7 +1,7 @@
 ---
 title: Chien Nguyen Nhu
 role: Data Scientist- Machine learning Engineer
-avatar_filename: chien.jpg
+avatar_filename: profile.jpg
 bio: His research interests include  machine learning, deep learning, big data,
   cloud computing, network security and control theory.
 interests:
