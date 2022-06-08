@@ -7,16 +7,20 @@ title: Skills
 subtitle: null
 feature:
   - description: 90%
-    icon: r-project
+    icon: python
     icon_pack: fab
-    name: R
-  - description: 100%
+    name: Python
+  - description: 90%
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
+  - description: 90%
+    icon: C/C++
     icon_pack: fas
-    name: Photography
+    name: C/C++
+  - description: 60%
+    icon: Matlab
+    icon_pack: fas
+    name: Matlab
 active: true
 ---
