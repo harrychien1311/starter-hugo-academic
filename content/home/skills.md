@@ -15,11 +15,11 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 90%
-    icon: C/C++
+    icon: C++
     icon_pack: fas
-    name: C/C++
+    name: c/c++
   - description: 60%
-    icon: Matlab
+    icon: matlab
     icon_pack: fas
     name: Matlab
 active: true
