@@ -40,4 +40,4 @@ highlight_name: true
 ---
 Chien Nguyen Nhu (Member, IEEE) is currently pursuing a Master of Engineering degree  at Soongsil University, Seoul, South Korea. He accomplished a Bachelor's degree in Control Automation in 2018 from Hanoi University of Science and Technology, Vietnam. His research interests include machine learning, deep learning, big data, cloud computing, network security and control theory
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/my_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
