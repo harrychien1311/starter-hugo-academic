@@ -20,11 +20,11 @@ feature:
     name: c/c++
   - description: 60%
     icon: matlab
-    icon_pack: fas
+    icon_pack: fab
     name: Matlab
   - description: 60%
     icon: keras
-    icon_pack: fas
+    icon_pack: fab
     name: Keras
   
 active: true
