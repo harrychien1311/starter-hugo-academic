@@ -13,14 +13,19 @@ feature:
   - description: 90%
     icon: chart-line
     icon_pack: fas
-    name: Statistics
+    name: Data analysis
   - description: 90%
-    icon: C++
+    icon: c++
     icon_pack: fas
     name: c/c++
   - description: 60%
     icon: matlab
     icon_pack: fas
     name: Matlab
+  - description: 60%
+    icon: keras
+    icon_pack: fas
+    name: Keras
+  
 active: true
 ---
