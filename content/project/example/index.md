@@ -19,6 +19,7 @@ links:
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  filename: conceptual_architecture.png
 url_code: ""
 ---
 Cloud computing is currently considered the most cost-effective platform for offering
@@ -38,3 +39,7 @@ efficiency of the LSTM algorithm in detecting each abnormal flow in network traf
 the required sequence length of the input data. A comprehensive performance evaluation shows
 that our proposed scheme outperforms the existing solutions in terms of accuracy and resource
 consumption.
+
+Here is the publication link of the project: https://www.mdpi.com/2076-3417/11/21/10249
+
+and the github link of the project: https://github.com/harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System
