@@ -17,9 +17,10 @@ links:
     name: DOI
     url: https://www.mdpi.com/2076-3417/11/21/10249
 image:
-  caption: The conceptual architecture of the two-phase deep leanring-based EDoS detection system
+  caption: The conceptual architecture of the two-phase deep leanring-based EDoS
+    detection system
   focal_point: Smart
-  filename: conceptual_architecture.png
+  filename: featured.png
 url_code: ""
 ---
 Cloud computing is currently considered the most cost-effective platform for offering
