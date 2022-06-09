@@ -17,7 +17,7 @@ links:
     name: DOI
     url: https://www.mdpi.com/2076-3417/11/21/10249
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: The conceptual architecture of the two-phase deep leanring-based EDoS detection system
   focal_point: Smart
   filename: conceptual_architecture.png
 url_code: ""
