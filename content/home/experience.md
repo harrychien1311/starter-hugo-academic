@@ -10,10 +10,7 @@ experience:
     location: Seoul, South Korea
     date_start: 2020-09-01
     date_end: ""
-    description: >-2
-        Responsibilities include:
-        
-        * Research and Develop Machine learning-based  network intrusion detection systems on cloud, (Software-Defined Network) SDN-based system
+    description: Research and Develop Machine learning-based  network intrusion detection systems on cloud, (Software-Defined Network) SDN-based system
   - title: C++ Software engineer
     company: Fpt Software
     company_url: https://www.fpt-software.com/
@@ -29,13 +26,12 @@ experience:
     location: Hanoi, Vietnam
     date_start: 2017-12-04
     date_end: 2018-06-01
-    description: Research and Develop an ID managment system utilizing hyperledger
-      fabric blockchain framework and IoT waston framework of IBM
+    description: Research and Develop an ID managment system utilizing hyperledger fabric blockchain framework and IoT waston framework of IBM
 widget_id: Experience
 headless: true
 weight: 40
 title: Experience
 subtitle: null
 design:
-  columns: "2"
+  columns: "3"
 ---
