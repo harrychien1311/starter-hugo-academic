@@ -6,23 +6,23 @@ weight: 30
 title: Skills
 subtitle: null
 feature:
-  - description: 90%
+  - description:
     icon: python
     icon_pack: fab
     name: Python
-  - description: 90%
+  - description:
     icon: chart-line
     icon_pack: fas
     name: Data analysis
-  - description: 90%
-    icon: c++
+  - description:
+    icon: C
     icon_pack: fas
     name: c/c++
-  - description: 60%
+  - description:
     icon: matlab
     icon_pack: fab
     name: Matlab
-  - description: 60%
+  - description:
     icon: keras
     icon_pack: fab
     name: Keras
