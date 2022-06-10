@@ -3,7 +3,8 @@ title: TRACKING CONTROL FOR ELECTRO-OPTICAL SYSTEM IN VIBRATION ENVIROMENT BASED
   ON SELF-TUNING FUZZY SLIDING MODE CONTROL
 publication_types:
   - "2"
-authors: []
+authors:
+  - Chien-Nguyen
 doi: 10.15625/1813-9663/35/2/13233
 publication: Journal of Computer Science and Cybernetics
 publication_short: JCSC
