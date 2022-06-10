@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Chien-Nguyen
-doi: 10.15625/1813-9663/35/2/13233
+doi: https://doi.org/10.15625/1813-9663/35/2/12931
 publication: Journal of Computer Science and Cybernetics
 publication_short: JCSC
 abstract: >-
