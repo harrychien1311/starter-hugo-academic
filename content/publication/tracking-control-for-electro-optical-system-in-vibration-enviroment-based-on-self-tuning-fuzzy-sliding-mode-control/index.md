@@ -1,6 +1,6 @@
 ---
-title: TRACKING CONTROL FOR ELECTRO-OPTICAL SYSTEM IN VIBRATION ENVIROMENT BASED
-  ON SELF-TUNING FUZZY SLIDING MODE CONTROL
+title: Tracking control for electro-optical system in vibration environment
+  based on self-tuning fuzzy sliding mode control
 publication_types:
   - "2"
 authors:
