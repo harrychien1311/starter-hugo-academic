@@ -1,5 +1,5 @@
 ---
-title: Optimizing Network Slicing in Network Slicing
+title: Optimizing Resource Scaling in Network Slicing
 publication_types:
   - "1"
 authors:
