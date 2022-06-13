@@ -22,10 +22,6 @@ feature:
     icon: matlab
     icon_pack: fab
     name: Matlab
-  - description:
-    icon: keras
-    icon_pack: fab
-    name: Keras
   
 active: true
 ---
