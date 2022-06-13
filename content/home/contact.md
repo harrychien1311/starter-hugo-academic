@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: chiennn.pasal@gmail.com
-  phone: 01048792304
+  phone: +821048792304
   address:
     city: Seoul
     postcode: '06978'
