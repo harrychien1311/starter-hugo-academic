@@ -22,6 +22,7 @@ abstract: Network slicing is a key technology in 5G and beyond networks to meet
   overprovisioning.
   
 url_slides: "https://speakerdeck.com/harrychien1311/optimizing-resource-scaling-in-network-slicing"
+slides: url_slides
 draft: false
 featured: true
 categories: []
