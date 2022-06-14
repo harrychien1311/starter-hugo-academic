@@ -20,8 +20,8 @@ abstract: Cloud computing is currently considered the most cost-effective
   reducing the required sequence length of the input data. A comprehensive
   performance evaluation shows that our proposed scheme outperforms the existing
   solutions in terms of accuracy and resource consumption
-slides: url_slides
-url_pdf: 
+slides: https://speakerdeck.com/harrychien1311/example?slide=3
+url_pdf: url_slides
 publication_types:
   - "2"
 authors:
@@ -67,8 +67,8 @@ image:
   preview_only: false
   filename: featured.png
 date: 2022-06-09T00:00:00.000Z
-url_slides: "https://speakerdeck.com/harrychien1311/example?slide=3"
-publishDate: 2021-11-01T00:00:00Z
+url_slides: https://speakerdeck.com/harrychien1311/example?slide=3
+publishDate: 2021-11-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
