@@ -41,7 +41,7 @@ links:
     url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://speakerdeck.com/harrychien1311/optimizing-resource-scaling-in-network-slicing'
 url_video: ''
 
 # Markdown Slides (optional).
