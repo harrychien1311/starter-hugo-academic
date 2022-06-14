@@ -21,7 +21,7 @@ abstract: Cloud computing is currently considered the most cost-effective
   performance evaluation shows that our proposed scheme outperforms the existing
   solutions in terms of accuracy and resource consumption
 slides: VCAYS_presentation
-url_pdf: ""
+url_pdf: url_slides
 publication_types:
   - "2"
 authors:
