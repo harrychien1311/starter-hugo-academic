@@ -21,6 +21,7 @@ abstract: Cloud computing is currently considered the most cost-effective
   performance evaluation shows that our proposed scheme outperforms the existing
   solutions in terms of accuracy and resource consumption
 slides: Two_phase_EDoS.pdf
+url_slides: "https://speakerdeck.com/harrychien1311/example?slide=3"
 url_pdf:
 publication_types:
   - "2"
@@ -67,7 +68,6 @@ image:
   preview_only: false
   filename: featured.png
 date: 2022-06-09T00:00:00.000Z
-url_slides: https://speakerdeck.com/harrychien1311/example?slide=3
 publishDate: 2021-11-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
