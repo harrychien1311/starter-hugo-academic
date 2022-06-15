@@ -8,7 +8,7 @@ all_day: false
 event: The 7th Annual Conference of Vietnamese Young Scientist ACVYS 2021
 event_url: acvys.org
 publishDate: 2022-06-14T09:39:15.577Z
-slides: example
+url_slides: "https://speakerdeck.com/chien1311/two-phase-deep-learning-based-edos-attack-detection-system"
 draft: false
 featured: false
 image:
