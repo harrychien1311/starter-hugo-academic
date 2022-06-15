@@ -55,7 +55,7 @@ url_project: ""
 publication_short: In *MDPI*
 url_source: ""
 url_video: ""
-title: Two-Phase Deep Learning-Based EDoS Detection System
+title: Two-Phase Deep Learning-Based EDoS Detection
 doi: https://doi.org/10.3390/app112110249
 featured: true
 tags: []
