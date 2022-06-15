@@ -22,7 +22,7 @@ abstract: >-
 
   of the proposed controller.
 draft: false
-featured: true
+featured: false
 image:
   filename: featured.jpg
   focal_point: Smart
