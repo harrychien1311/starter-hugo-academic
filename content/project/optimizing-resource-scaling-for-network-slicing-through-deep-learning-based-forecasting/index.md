@@ -1,5 +1,4 @@
 ---
-url_slides: https://docs.google.com/presentation/d/17_NSrkEV_906OlD0cKVPDi2CAdifElnOV1yqNHtBiQY/edit?usp=sharing
 title: Optimizing Resource Scaling for Network Slicing through Deep
   Learning-based Forecasting
 date: 2022-06-15T10:07:43.874Z
@@ -12,8 +11,9 @@ draft: false
 featured: false
 authors:
   - Chien-Nguyen
+url_slides: https://docs.google.com/presentation/d/17_NSrkEV_906OlD0cKVPDi2CAdifElnOV1yqNHtBiQY/edit?usp=sharing
 categories:
-  - Deep Learning, Network Function Virtuallization 
+  - Deep Learning, Network Function Virtuallization
 image:
   filename: featured
   focal_point: Smart
@@ -30,3 +30,5 @@ Through comprehensive experiments, our proposed algorithm outperforms other stat
 Technologies and Tools used: Keras, Openstack, Opensource Mano
 
 Programming Languages: Python
+
+My main responsibilies: Idea proposing, data analysis and coding and deploying
