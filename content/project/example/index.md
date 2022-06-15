@@ -1,12 +1,11 @@
 ---
-slides: example
 url_pdf: ""
 summary: ""
 authors:
   - Chien
 url_video: ""
 date: 2022-06-09T00:00:00.000Z
-external_link: ""
+external_link: "https://speakerdeck.com/chien1311/two-phase-deep-learning-based-edos-attack-detection-system"
 url_slides: "https://speakerdeck.com/chien1311/two-phase-deep-learning-based-edos-attack-detection-system"
 title: Two-phase Deep Learning-based EDOS Attack Detection System
 tags:
