@@ -32,4 +32,6 @@ memory (LSTM)-based solutions achieve much higher accuracy and false-alarm rates
 threshold and other machine learning-based solutions. However, LSTM requires a long sequence
 length of the input data, leading to a degraded performance owing to increases in the calculations,
 the detection time, and consuming a large number of computing resources of the defense system.
-and the github link of the project: https://github.com/harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System
+
+
+The github link of the project: https://github.com/harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System
