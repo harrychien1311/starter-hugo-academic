@@ -5,8 +5,7 @@ avatar_filename: avatar.jpg
 bio: His research interests include  machine learning, deep learning, big data,
   cloud computing, network security and control theory.
 interests:
-  - Machine learning
-  - Deep learning
+  - Machine learning/Deep learning
   - Big data
   - Cloud computing
   - Network security and Control theory.
