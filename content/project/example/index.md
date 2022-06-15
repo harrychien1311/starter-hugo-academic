@@ -1,5 +1,4 @@
 ---
- 
 url_pdf: ""
 summary: ""
 authors:
@@ -7,7 +6,7 @@ authors:
 url_video: ""
 date: 2022-06-09T00:00:00.000Z
 external_link: https://speakerdeck.com/chien1311/two-phase-deep-learning-based-edos-attack-detection-system
-url_slides: "https://speakerdeck.com/chien1311/two-phase-deep-learning-based-edos-attack-detection-system"
+url_slides: https://speakerdeck.com/chien1311/two-phase-deep-learning-based-edos-attack-detection-system
 title: Two-phase Deep Learning-based EDOS Attack Detection System
 tags:
   - Deep Learning
@@ -15,7 +14,7 @@ links:
   - icon: doi
     icon_pack: ai
     name: Slides
-    url: "https://speakerdeck.com/chien1311/two-phase-deep-learning-based-edos-attack-detection-system"
+    url: https://speakerdeck.com/chien1311/two-phase-deep-learning-based-edos-attack-detection-system
 image:
   caption: The conceptual architecture of the two-phase deep leanring-based EDoS
     detection
@@ -33,14 +32,4 @@ memory (LSTM)-based solutions achieve much higher accuracy and false-alarm rates
 threshold and other machine learning-based solutions. However, LSTM requires a long sequence
 length of the input data, leading to a degraded performance owing to increases in the calculations,
 the detection time, and consuming a large number of computing resources of the defense system.
-We, therefore, propose a two-phase deep learning-based EDoS detection scheme that uses an LSTM
-model to detect each abnormal flow in network traffic; however, the LSTM model requires only a
-short sequence length of five of the input data. Thus, the proposed scheme can take advantage of the
-efficiency of the LSTM algorithm in detecting each abnormal flow in network traffic, while reducing
-the required sequence length of the input data. A comprehensive performance evaluation shows
-that our proposed scheme outperforms the existing solutions in terms of accuracy and resource
-consumption.
-
-
-
 and the github link of the project: https://github.com/harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System
