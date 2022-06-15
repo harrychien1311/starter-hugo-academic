@@ -6,7 +6,7 @@ authors:
 url_video: ""
 date: 2022-06-09T00:00:00.000Z
 external_link: ""
-url_slides: https://speakerdeck.com/chien1311/two-phase-deep-learning-based-edos-attack-detection-system
+url_slides: https://docs.google.com/presentation/d/11etSR-CS0qpMqELd50tTFbj7WJ_iT3BNNl2-WbTfif0/edit?usp=sharing
 title: Two-phase Deep Learning-based EDOS Attack Detection System
 tags:
   - Deep Learning
