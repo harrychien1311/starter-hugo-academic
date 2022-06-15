@@ -5,7 +5,7 @@ authors:
   - Chien
 url_video: ""
 date: 2022-06-09T00:00:00.000Z
-external_link: https://speakerdeck.com/chien1311/two-phase-deep-learning-based-edos-attack-detection-system
+external_link: ""
 url_slides: https://speakerdeck.com/chien1311/two-phase-deep-learning-based-edos-attack-detection-system
 title: Two-phase Deep Learning-based EDOS Attack Detection System
 tags:
@@ -13,8 +13,8 @@ tags:
 links:
   - icon: doi
     icon_pack: ai
-    name: Slides
-    url: https://speakerdeck.com/chien1311/two-phase-deep-learning-based-edos-attack-detection-system
+    name: DOI
+    url: https://www.mdpi.com/2076-3417/11/21/10249
 image:
   caption: The conceptual architecture of the two-phase deep leanring-based EDoS
     detection
