@@ -20,12 +20,12 @@ abstract: Network slicing is a key technology in 5G and beyond networks to meet
   series data in both short-term prediction and long-term prediction to help
   network operator reduce the costs of SLA violation and resource
   overprovisioning.
-  
-url_slides: "https://speakerdeck.com/harrychien1311/optimizing-resource-scaling-in-network-slicing"
-slides: url_slides
 draft: false
-featured: true
+featured: false
 categories: []
+slides: url_slides
+date: 2022-06-10T09:46:43.716Z
+url_slides: https://speakerdeck.com/harrychien1311/optimizing-resource-scaling-in-network-slicing
 image:
   filename: featured.jpg
   focal_point: Smart
@@ -44,5 +44,4 @@ image:
     series data in both short-term prediction and long-term prediction to help
     network operator reduce the costs of SLA violation and resource
     overprovisioning.
-date: 2022-06-10T09:46:43.716Z
 ---
