@@ -13,7 +13,7 @@ url_slides: "https://speakerdeck.com/chien1311/two-phase-deep-learning-based-edo
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: "ACVYS-2021-01-scaled.jpg"
   focal_point: Smart
   preview_only: false
 ---
