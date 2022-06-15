@@ -18,7 +18,7 @@ links:
     url: "https://speakerdeck.com/chien1311/two-phase-deep-learning-based-edos-attack-detection-system"
 image:
   caption: The conceptual architecture of the two-phase deep leanring-based EDoS
-    detection system
+    detection
   focal_point: Smart
   filename: featured.png
 url_code: ""
@@ -41,6 +41,6 @@ the required sequence length of the input data. A comprehensive performance eval
 that our proposed scheme outperforms the existing solutions in terms of accuracy and resource
 consumption.
 
-Here is the publication link of the project: https://www.mdpi.com/2076-3417/11/21/10249
+
 
 and the github link of the project: https://github.com/harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System
