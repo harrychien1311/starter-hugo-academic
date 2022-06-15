@@ -20,15 +20,12 @@ abstract: Cloud computing is currently considered the most cost-effective
   reducing the required sequence length of the input data. A comprehensive
   performance evaluation shows that our proposed scheme outperforms the existing
   solutions in terms of accuracy and resource consumption
-url_slides: "https://docs.google.com/presentation/d/11etSR-CS0qpMqELd50tTFbj7WJ_iT3BNNl2-WbTfif0/edit?usp=sharing"
-url_pdf:
+url_pdf: null
+title: Two-Phase Deep Learning-Based EDoS Detection
 publication_types:
   - "2"
 authors:
   - Chien Nguyen
-author_notes:
-  - Department of Information Communication
-publication: In Applied Science-MDPI
 summary: Cloud computing is currently considered the most cost-effective
   platform for offering business and consumer IT services over the Internet.
   However, it is prone to new vulnerabilities. A new type of attack called an
@@ -55,9 +52,11 @@ url_project: ""
 publication_short: In *MDPI*
 url_source: ""
 url_video: ""
-title: Two-Phase Deep Learning-Based EDoS Detection
+author_notes:
+  - Department of Information Communication
 doi: https://doi.org/10.3390/app112110249
-featured: true
+publication: In Applied Science-MDPI
+featured: false
 tags: []
 projects:
   - Two-Phase Deep Learning-Based EDoS Detection System
@@ -67,6 +66,7 @@ image:
   preview_only: false
   filename: featured.png
 date: 2022-06-09T00:00:00.000Z
+url_slides: https://docs.google.com/presentation/d/11etSR-CS0qpMqELd50tTFbj7WJ_iT3BNNl2-WbTfif0/edit?usp=sharing
 publishDate: 2021-11-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
