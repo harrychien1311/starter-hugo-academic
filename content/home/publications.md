@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: PUBLISH
+widget_id: Publications
 headless: true
 weight: 90
 title: Publications
