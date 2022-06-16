@@ -12,7 +12,7 @@ interests:
 social:
   - icon: facebook
     icon_pack: fab
-    link: https://https://www.facebook.com/nhuchien.nguyen.5/
+    link: https://www.facebook.com/nhuchien.nguyen.5/
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=M5hWBAYAAAAJ&hl=en
