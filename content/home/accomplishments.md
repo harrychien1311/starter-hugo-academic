@@ -23,30 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://courses.cognitiveclass.ai/certificates/44cb9cb6afa7464d811886ef9fe12520?fbclid=IwAR0jX-TtllNBXXBQ4OIH84zZBJ5RPd256wuhdslC-KJiH8AHw4yp1YdvumQ
     date_end: ''
-    date_start: '2021-01-25'
+    date_start: '2019-05-08'
     description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    organization: Cognitive Class
+    organization_url: https://coures.cognitiveclass.ai
+    
 
 design:
   columns: '2'
