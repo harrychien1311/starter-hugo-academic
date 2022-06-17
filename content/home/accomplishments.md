@@ -29,7 +29,7 @@ item:
     description: ''
     organization: IBM
     title: 'IBM Blockchain Foundation Developer'
-    organization_url: https://coures.cognitiveclass.ai
+    organization_url: https://cognitiveclass.ai
     
 
 design:
