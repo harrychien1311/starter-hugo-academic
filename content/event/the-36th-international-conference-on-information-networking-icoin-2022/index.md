@@ -25,7 +25,7 @@ all_day: true
 event: The 36th International Conference on Information Networking (ICOIN 2022)
 event_url: http://2022.icoin.org/main.php
 publishDate: 2022-06-17T01:12:38.427Z
-slides: https://drive.google.com/file/d/1Ucmoa4jLCyPIgAMBvBWC26CSefrqyTwz/view?usp=sharing
+url_slides: https://drive.google.com/file/d/1Ucmoa4jLCyPIgAMBvBWC26CSefrqyTwz/view?usp=sharing
 draft: false
 featured: false
 image:
