@@ -27,7 +27,7 @@ item:
     date_end: ''
     date_start: '2019-05-08'
     description: ''
-    organization: Cognitive Class
+    organization: Cognitive Class.ai
     organization_url: https://coures.cognitiveclass.ai
     
 
