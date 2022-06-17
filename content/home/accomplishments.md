@@ -28,7 +28,7 @@ item:
     date_start: '2019-05-08'
     description: ''
     organization: IBM
-    title: 'IBM Blockchain Founđation Developer'
+    title: 'IBM Blockchain Foundation Developer'
     organization_url: https://coures.cognitiveclass.ai
     
 
