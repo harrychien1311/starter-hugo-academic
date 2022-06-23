@@ -30,6 +30,13 @@ item:
     organization: IBM
     title: 'IBM Blockchain Foundation Developer'
     organization_url: https://cognitiveclass.ai
+  - certificate_url: https://courses.cognitiveclass.ai/certificates/986847ef743e4cbcb58eb187bcb548d8
+    date_end: ''
+    date_start: '2022-06-18'
+    description: ''
+    organization: IBM
+    title: 'Python for Data Science'
+    organization_url: https://cognitiveclass.ai
     
 
 design:
