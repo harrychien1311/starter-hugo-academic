@@ -1,5 +1,5 @@
 ---
-title: Tracking control for Electro-Optical system in Vibration envrionment
+title: Tracking control for Electro-Optical system in vibration environment
 date: 2022-06-25T12:22:24.389Z
 draft: false
 featured: false
