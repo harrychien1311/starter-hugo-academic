@@ -3,6 +3,11 @@ title: Tracking control for Electro-Optical system in Vibration envrionment
 date: 2022-06-25T12:22:24.389Z
 draft: false
 featured: false
+links:
+  - url: https://vjs.ac.vn/index.php/jcc/article/view/12931
+    name: DOI
+    icon_pack: ai
+    icon: doi
 image:
   filename: featured.jpg
   focal_point: Smart
