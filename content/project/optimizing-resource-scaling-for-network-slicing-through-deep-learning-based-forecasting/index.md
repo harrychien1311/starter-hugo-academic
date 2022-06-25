@@ -12,8 +12,10 @@ featured: false
 authors:
   - Chien-Nguyen
 url_slides: https://docs.google.com/presentation/d/17_NSrkEV_906OlD0cKVPDi2CAdifElnOV1yqNHtBiQY/edit?usp=sharing
+tags:
+  - Deep-Learning
 categories:
-  - Deep Learning, Network Function Virtuallization
+  - Deep Learning
 image:
   filename: featured
   focal_point: Smart
