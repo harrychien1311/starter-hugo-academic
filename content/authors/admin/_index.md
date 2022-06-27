@@ -8,7 +8,8 @@ interests:
   - Machine learning/Deep learning
   - Big data
   - Cloud computing
-  - Network security and Control theory.
+  - Network security
+  - Control theory.
 social:
   - icon: facebook
     icon_pack: fab
