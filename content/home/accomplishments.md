@@ -37,7 +37,13 @@ item:
     organization: IBM
     title: 'Python for Data Science'
     organization_url: https://cognitiveclass.ai
-    
+  - certificate_url: https://www.credly.com/badges/5b173e1d-aca4-47e4-af3d-ad1615821c21/public_url
+    date_end: ''
+    date_start: '2022-06-29'
+    description: ''
+    organization: IBM
+    title: 'Spark Fundemental'
+    organization_url: https://cognitiveclass.ai
 
 design:
   columns: '2'
