@@ -22,6 +22,10 @@ feature:
     icon: matlab
     icon_pack: fab
     name: Matlab
+  - description:
+    icon: apache spark
+    icon_pack: fab
+    name: Spark  
   
 active: true
 ---
