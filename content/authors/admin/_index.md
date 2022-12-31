@@ -39,6 +39,7 @@ superuser: true
 highlight_name: true
 ---
 Chien Nguyen Nhu (Member, IEEE) is currently working as an AI researcher and Data scientist in DeltaX, South Korea-a rapidly growing start-up, mainly focusing on Industry-grade AI solutions. His roles are data analysis and designing an end-to-end machine learning system.
+
 His research interests are big data analysis and applying machine learning or deep learning to various domains such as network intrusion detection system, time series forecasting system or sentiment classification. During the time he researched and studied, he published 4 journal papers related to deep Learning, network security, and control theory and some top conference papers.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/my_cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
