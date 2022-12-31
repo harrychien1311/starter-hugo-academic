@@ -3,13 +3,21 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: Research Assistant
+  - title: AI Researcher
+    company: DeltaX, Seoul, South Korea
+    company_url: http://deltax.ai/renewal/eng/
+    company_logo: deltax
+    location: Seoul, South Korea
+    date_start: 2022-08-01
+    date_end: ""
+    description: Data analysis and design and end-to-end machine learning-based intrusion detection system for Republic of Korea Army'network system
+  - title: Researcher
     company: Smart Network System Laboratory-Soongsil University
     company_url: http://sns.ssu.ac.kr
     company_logo: soongsil
     location: Seoul, South Korea
     date_start: 2020-09-01
-    date_end: ""
+    date_end: 2022-07-31
     description: Research and Develop Machine learning-based  network intrusion detection systems on cloud, (Software-Defined Network) SDN-based system
   - title: C++ Software engineer
     company: Fpt Software
