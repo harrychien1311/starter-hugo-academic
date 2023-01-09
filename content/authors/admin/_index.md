@@ -24,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/nhu-chien-nguyen-8ba981152/
 organizations:
-  - name: Soongsil University
-    url: https://www.ssu.ac.kr
+  - name: DeltaX
+    url: [https://www.ssu.ac.kr](http://deltax.ai/renewal/eng/)
 education:
   courses:
     - course: Master in Information Communication
