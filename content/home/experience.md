@@ -3,6 +3,14 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
+  - title: AI Team Leader
+    company: DeltaX, Seoul, South Korea
+    company_url: http://deltax.ai/renewal/eng/
+    company_logo: deltax
+    location: Seoul, South Korea
+    date_start: 2023-05-01
+    date_end: ""
+    description: Software architecture designing, coding reviewing, task allocation and supervising team members to ensure quality of projects
   - title: AI Researcher
     company: DeltaX, Seoul, South Korea
     company_url: http://deltax.ai/renewal/eng/
