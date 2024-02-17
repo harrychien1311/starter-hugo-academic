@@ -29,7 +29,7 @@ We, therefore, propose a two-phase deep learning-based EDoS detection scheme tha
 Technologies or Tools used: Keras, Apache Spark, Wireshark, Ansible, SplitCap
 Programming Languages: Python, shell
 
-My main responsibilies: Idea proposing, data analysis and coding 
+My main responsibilies: Idea proposing, data analysis, model development and coding 
 
 
 The github link of the project: https://github.com/harrychien1311/Two-phase-Deep-learning-based-EDoS-Detection-System
