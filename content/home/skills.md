@@ -26,6 +26,13 @@ feature:
     icon: apache spark
     icon_pack: fab
     name: Spark  
-  
+  - description:
+    icon: machine learning
+    icon_pack: fab
+    name: Machine learning/Deep learning
+  - description:
+    icon: docker
+    icon_pack: fab
+    name: Docker
 active: true
 ---
