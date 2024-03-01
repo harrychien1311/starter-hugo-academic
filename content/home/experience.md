@@ -3,22 +3,27 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-  - title: AI Team Leader
-    company: DeltaX, Seoul, South Korea
-    company_url: http://deltax.ai/renewal/eng/
-    company_logo: deltax
-    location: Seoul, South Korea
-    date_start: 2023-05-01
-    date_end: ""
-    description: Software architecture designing, coding reviewing, task allocation and supervising team members to ensure quality of projects
-  - title: AI Researcher
+  - title: AI Team Leader, AI Researcher
     company: DeltaX, Seoul, South Korea
     company_url: http://deltax.ai/renewal/eng/
     company_logo: deltax
     location: Seoul, South Korea
     date_start: 2022-08-01
     date_end: ""
-    description: Data analysis and design and end-to-end machine learning-based intrusion detection system for Republic of Korea Army'network system
+    description:  
+    * Conducted data analysis and developed automated pipelines for processing raw
+data, enhancing data-driven decision-making processes.
+    * Developed MLOps pipelines from model training to model evaluation by Prefect
+framework to boost the productivity of projects
+    * Developed a deep learning-based object detector for a smart cabin monitoring
+system which was deployed in a car
+    * Led the development of an AI-based cyber threat detection systems for the
+Republic of Korea Army's intranet, focusing on identifying and mitigating high-risk
+attacks and helping reduce false alarm rate to 2.5%
+    * Lead the development of an AI-based power forecasting and inverter fault solution
+for solar energy systems
+    * Conducted comprehensive code reviews and software architectures designing to
+ensure adherence to best practices and maintain high-quality codebase.
   - title: Researcher
     company: Smart Network System Laboratory-Soongsil University
     company_url: http://sns.ssu.ac.kr
