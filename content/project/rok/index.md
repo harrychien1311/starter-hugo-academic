@@ -4,7 +4,8 @@ date: 2022-08-01T10:20:13.294Z
 summary: Desgin and develop  an AI-based system to detect network attacks in the intranet of the Republic of Korea Army.
 draft: false
 featured: false
-authors: Chien-Nguyen
+authors: 
+  - Chien-Nguyen
 tags:
   - Deep learning
 categories:
