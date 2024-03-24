@@ -24,5 +24,13 @@ image:
    This project is the project of Vietnam Academic of Science and Technology. Thus, I cannot share the code
 
    You can read our publication at: https://vjs.ac.vn/index.php/jcc/article/view/12931/103810383012
-2. Technologies and Programming languages used: Matlab, C++
-3. Main responsibilities: Research to propose the algorithms, Conduct the experiments by simulation and reality, Implementation
+2. Technologies and Programming languages used: Matlab, C++, Python, OpenCV
+
+3. My position: Researcher
+
+4. Main responsibilities: 
+    - Researched to propose the algorithms
+    - Desigined the algorithm and conducted the experiments by simulation in matlab to test the results
+    - Implemented and deployed the algorithms in AVR controller-a micro controller
+
+*Note: This is the project of Vietnamese Academeic of Science and Technology. Thus I cannot share the detail source code. Please read the paper to understand the solution*

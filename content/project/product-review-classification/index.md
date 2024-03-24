@@ -4,6 +4,10 @@ date: 2022-06-25T11:36:31.681Z
 summary: ""
 draft: false
 featured: false
+tags:
+    - Deep learning
+categories:
+    - Deep learning
 links:
   - url: https://github.com/harrychien1311/Product-review-classification
     name: github
@@ -24,4 +28,6 @@ image:
 3. Desired outputs:
 
    The customer's behavior: Positive: Really like the product Negative: Really hate the product Neutral: Feel the product not too good but not bad
-4. Frameworks used: Keras, NLTK (Natual language processing toolkit )
+4. Solution: Please read the source code to understand the solution 
+
+5. Frameworks used: Keras, NLTK (Natual language processing toolkit)
