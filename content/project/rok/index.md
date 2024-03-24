@@ -6,7 +6,7 @@ draft: false
 featured: false
 authors: Chien-Nguyen
 tags:
-  - Deep learning, Cybersecurity
+  - Deep learning
 categories:
   - Deep learning
 image:
