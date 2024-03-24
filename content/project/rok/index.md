@@ -25,7 +25,8 @@ image:
     - Conducted big data analysis using Pyspark and built automated pipelines to process data with the Prefect framework.
     - Conducted hypothesis testing to find the feature importance among variables
     - Developed  the Tabformer architecture in Pytorch.
-    - Implemented the inference pipeline.
+    - Implemented the inference pipeline
+    - Designed CI/CD pipeline to boost the productivity when deploying the inference pipeline with different models
     - Conducted coding review
 
 5.  Technologies and Tools used: Python, Pytorch, Apache Spark, Pandas, Scikit-learn, Docker

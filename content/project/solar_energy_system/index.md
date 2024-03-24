@@ -26,6 +26,7 @@ image:
 4. Main responsibilities:
     - Model (XGBoost regressor) development for the inverter fault detection task by using Scikit-learn framework
     - Implement the inference pipeline and deployed in a embedded device for inverter fault detection task
+    - Designed CI/CD pipeline to boost the productivity when deploying the inference pipeline with different models
     - Code review and software design for the entire solution including power forecasting and inverter fault detection task
 
 5.  Technologies and Tools used: Python, Scikit-learn, Docker, Pandas, Matplotlib
