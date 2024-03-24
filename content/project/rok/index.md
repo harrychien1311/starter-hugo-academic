@@ -16,8 +16,6 @@ image:
 ---
 1. Summarize of the project: The intranet of Republic of Korea's Army suffers millions of sessions per day. This could lead to the hight potential of cyber attacks eventhough there is no outside traffics in this intranet. However, just a spam email or unintentionally plugig an external device such as USB could bring a malware to a signle computer in the intranet and then it could become a bot in a botnet attack or DDoS attack,... attack the entire network. With high volume of traffics in the intranet, there is a need for an AI-based cyberattack detections to automatically detect network attacks and support network operators in network analysis.
 2. Solutions: We developed a system utilize 3 AI algorithms to detect multiple types of attacks including XGBoostClassifier, Tabformer-a variant of tranformer based architecture that uitlize narutal language processing technique to process tabbular data. Especially we converted network session data to hiveplot images for visualization and then used a CNN model to classified attacks
-![Overview architecture](overview_architecture.jpg)
-*Note: This overview architecture is not the actual implemented architecture*
 
 
 3. My position: Team leader
@@ -29,3 +27,7 @@ image:
 
 5.  Technologies and Tools used: Python, Pytorch, Apache Spark, Pandas, Scikit-learn, Docker
 6. *Note: This is a goverment project. Thus we cannot share the actual architecture image and the source code*
+
+![Overview architecture](overview_architecture.png)
+
+*Note: This overview architecture is not the actual implemented architecture*
