@@ -3,6 +3,8 @@ title: Tracking control for Electro-Optical system in vibration environment
 date: 2022-06-25T12:22:24.389Z
 draft: false
 featured: false
+authors:
+  - Chien-Nguyen
 links:
   - url: https://vjs.ac.vn/index.php/jcc/article/view/12931
     name: DOI

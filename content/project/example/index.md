@@ -1,8 +1,8 @@
 ---
 url_pdf: ""
-summary: ""
+summary: "A Two-phase deep learning-based system to detect EDoS attack in Cloud-based systems"
 authors:
-  - Chien
+  - Chien-Nguyen
 url_video: ""
 date: 2022-06-09T00:00:00.000Z
 external_link: ""
