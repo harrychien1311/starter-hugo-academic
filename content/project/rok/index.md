@@ -8,9 +8,9 @@ authors: Chien-Nguyen
 tags:
   - Deep learning, Cybersecurity
 categories:
-  - AI
+  - Deep learning
 image:
-  filename: AI-1.png
+  filename: Ai.jpg
   focal_point: Smart
   preview_only: false
 ---
